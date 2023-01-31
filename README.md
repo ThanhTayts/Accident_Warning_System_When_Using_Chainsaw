@@ -1,1 +1,1 @@
-# H-th-ng-c-nh-b-o-tai-n-n-lao-ng-khi-v-n-h-nh-c-u-m-y
+# Hiện nay về ý thức an toàn lao động của người lao động nước ta hiện nay còn thấp
