@@ -16,9 +16,9 @@
    ![image](https://user-images.githubusercontent.com/92384494/215655932-1ed1c40f-5d95-4653-a203-7c9b9a5ec2f5.png)
 #### - Quá trình hoạt động của hệ thống
   * Bắt đầu hệ thống sẽ khởi chạy các thư viện ,mô hình phát hiện đối tượng, khởi động camera, loa và động cơ
-           * Bộ xử lý trung tâm thu nhận hình ảnh đầu vào từ camera sau đó tiến hành trích xuất, định dạng lại và tiến hành các quá trình tiền xử lý ảnh
-           * Ảnh sau khi được biến đổi và chuẩn hoá sẽ được được qua mô hình để phát hiện bàn tay có nằm trong vùng nguy hiểm hay không
-           * Nếu có loa sẽ phát cảnh báo và động cơ sẽ ngừng
+  * Bộ xử lý trung tâm thu nhận hình ảnh đầu vào từ camera sau đó tiến hành trích xuất, định dạng lại và tiến hành các quá trình tiền xử lý ảnh
+  * Ảnh sau khi được biến đổi và chuẩn hoá sẽ được được qua mô hình để phát hiện bàn tay có nằm trong vùng nguy hiểm hay không
+  * Nếu có loa sẽ phát cảnh báo và động cơ sẽ ngừng
         
    ![image](https://user-images.githubusercontent.com/92384494/215655345-96affbfc-17c8-4b6e-b16e-2346cabb5f8f.png)
    ![image](https://user-images.githubusercontent.com/92384494/215655896-04fd2640-791d-4daa-bb87-5ac0cab70b1c.png)
@@ -33,6 +33,8 @@
          * Ánh sáng ban ngày Ánh sáng ban đêm
          * Phát hiện bàn tay >85% <80%
          * Phát hiện găng tay >85% < 72%
+#### * Link
+         * [Video Demo](https://www.youtube.com/watch?v=0ofEC2D2mNk).
 
    
 
