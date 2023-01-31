@@ -34,7 +34,7 @@
          * Phát hiện bàn tay >85% <80%
          * Phát hiện găng tay >85% < 72%
 #### * Link
-         * [Video Demo](https://www.youtube.com/watch?v=0ofEC2D2mNk).
+   [Video Demo](https://www.youtube.com/watch?v=0ofEC2D2mNk).
 
    
 
