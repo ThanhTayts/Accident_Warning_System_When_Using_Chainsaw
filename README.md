@@ -7,12 +7,15 @@
             1. OpenCV 4.5.5
             2. Numpy 1.2.4
             3. YOLOv4 Tiny
+          ![image](https://user-images.githubusercontent.com/92384494/215650143-ded0b675-04b6-41e1-a698-865eb2e5eb4b.png)
+          
           * Phần cứng
             1. Camera
             2. Arduino Uno
             3. Còi cảnh báo
             5. Động cơ 5v
-          ![image](https://user-images.githubusercontent.com/92384494/215649823-1b155a20-d889-44bf-b419-2336a0882645.png)
+           ![image](https://user-images.githubusercontent.com/92384494/215649925-ae1fd728-3f99-488c-9fe5-038ed4bb946e.png)
+
 
                   
                   
